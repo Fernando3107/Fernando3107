@@ -1,7 +1,6 @@
 ## Hello! I'm Fernando Melo. Welcome To My Profile🥇
 
 <div>
-    💻Front-end developer<br/>
     📖Currently studying: HTML, CSS, Python and JavaScript<br/>
 </div>
 
